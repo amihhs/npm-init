@@ -7,7 +7,7 @@
   "keywords": [],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "example:dev": "pnpm -C example run dev"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.26.1",
